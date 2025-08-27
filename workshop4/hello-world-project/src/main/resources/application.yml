@@ -1,0 +1,9 @@
+springdoc:
+  show-actuator: true
+  #paths-to-match: /**
+  api-docs:
+    enabled: true
+    path: /v3/api-docs
+  version: 1.0.0
+  #swagger-ui:
+  #  path: /swagger-ui/index.html
